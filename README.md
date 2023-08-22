@@ -25,6 +25,8 @@
 
 ### Russian
 
+* [**Developer's Guide — CMW Platform**](https://kb.comindware.ru/category.php?id=478)
+* [**How to Write Requests Using CMW Formulas**](https://kb.comindware.ru/article.php?id=2345)
 * [**LogMeIn Apps (Pro, Central, Rescue) and Website**](https://www.logmein.com/ru)
 * [**Delta.App Website, App UI, and App Store Description**](https://delta.app/ru)
 * [**RemotEMDR Website**](https://www.remotemdr.com/ru/)
