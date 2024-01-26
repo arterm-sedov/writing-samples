@@ -34,7 +34,8 @@
 * [**Radiant Defence Game and App Store Description**](https://apps.apple.com/ru/app/radiant-defense/id512203663?platform=ipad)
 * [**MMA Manager 2: Ultimate Fight Game and Appstore Description**](https://play.google.com/store/apps/details?id=com.funrock.mma.manager\&hl=ru\&gl=ru)
 * [**How to Write Requests Using CMW Formulas**](https://kb.comindware.ru/article.php?id=2345)
-* [**Developer's Guide — CMW Platform**](https://kb.comindware.ru/category.php?id=478)
+* [**API Guide — CMW Platform**](https://kb.comindware.ru/article.php?id=1940)
+* [**C# Plugin Guide — CMW Platform**](https://kb.comindware.ru/article.php?id=2400)
 * [**VIDT — iOS Video Editor UI and App Store Description**](https://apps.apple.com/ru/app/vdit-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/id1483410865?l=ru)
 
 
