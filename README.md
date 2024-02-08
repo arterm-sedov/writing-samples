@@ -28,7 +28,7 @@
 ### Russian
 
 * [**LogMeIn Apps (Pro, Central, Rescue) and Website**](https://www.logmein.com/ru)
-* [**Delta.App Website, App UI, and App Store Description**](https://delta.app/ru)
+* [**Delta.App Website, App UI, and App Store Description**](https://play.google.com/store/apps/details?id=io.getdelta.android\&hl=ru\&gl=RU\&pli=1)
 * [**RemotEMDR Website**](https://www.remotemdr.com/ru/)
 * [**Republique Game Episodes 2–5 and App Store Description**](https://store.steampowered.com/app/317100/Republique/?l=russian)
 * [**Radiant Defence Game and App Store Description**](https://apps.apple.com/ru/app/radiant-defense/id512203663?platform=ipad)
