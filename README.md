@@ -25,7 +25,15 @@
 * [**Git Basics. Working with Branches**](https://app.gitbook.com/s/v2jfDATWvYKeAwrbv6xu/)
 * [**Auto.ae Website**](https://auto.ae/en/sale/search/?category\_id=1)
 
-### Russian
+### CMW Platform (Russian)
+
+* [**Send Sequests to SQL DB**](https://kb.comindware.ru/article.php?id=2498)
+* [**Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=2345)
+* [**API Guide**](https://kb.comindware.ru/article.php?id=1940)
+* [**C# Plugin Guide**](https://kb.comindware.ru/article.php?id=2400)
+* [**Configure Damic Form Elements**](https://kb.comindware.ru/article.php?id=2531#formset17)
+
+### Other (Russian)
 
 * [**LogMeIn Apps (Pro, Central, Rescue) and Website**](https://www.logmein.com/ru)
 * [**Delta.App Website, App UI, and App Store Description**](https://play.google.com/store/apps/details?id=io.getdelta.android\&hl=ru\&gl=RU\&pli=1)
@@ -34,12 +42,3 @@
 * [**Radiant Defence Game and App Store Description**](https://apps.apple.com/ru/app/radiant-defense/id512203663?platform=ipad)
 * [**MMA Manager 2: Ultimate Fight Game and Appstore Description**](https://play.google.com/store/apps/details?id=com.funrock.mma.manager\&hl=ru\&gl=ru)
 * [**VIDT — iOS Video Editor UI and App Store Description**](https://apps.apple.com/ru/app/vdit-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80/id1483410865?l=ru)
-* [**Write Requests Using Formulas — CMW Platform**](https://kb.comindware.ru/article.php?id=2345)
-* [**API Guide — CMW Platform**](https://kb.comindware.ru/article.php?id=1940)
-* [**C# Plugin Guide — CMW Platform**](https://kb.comindware.ru/article.php?id=2400)
-* [**Configure Damic Form Elements — CMW Platform**](https://kb.comindware.ru/article.php?id=2531#formset17)
-
-
-
-
-
