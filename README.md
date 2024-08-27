@@ -27,7 +27,7 @@
 
 ### CMW Platform (Russian)
 
-* [**Send Sequests to SQL DB**](https://kb.comindware.ru/article.php?id=2498)
+* [**Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=2498)
 * [**Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=2345)
 * [**API Guide**](https://kb.comindware.ru/article.php?id=1940)
 * [**C# Plugin Guide**](https://kb.comindware.ru/article.php?id=2400)
