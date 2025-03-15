@@ -22,16 +22,18 @@
 * [**Get Started with Docker. Create a Docker Image**](https://github.com/arterm-sedov/docker-tutorial)
 * [**Route4Me API Summary**](https://arterm-sedov.gitbook.io/route4me-api-summary/)
 * [**Vexel.com How-to Video Voiceover and FAQ**](https://www.behance.net/gallery/150137233/Cryptocurrency-how-to-video-voiceover-and-FAQ-text)
-* [**Git Basics. Working with Branches**](https://app.gitbook.com/s/v2jfDATWvYKeAwrbv6xu/)
-* [**Auto.ae Website**](https://auto.ae/en/sale/search/?category\_id=1)
+* [**Git Basics. Working with Branches**](https://app.gitbook.com/o/cVrMM91FmzBwbnq4IAi4/s/v2jfDATWvYKeAwrbv6xu/)
+* [**Auto.ae Website**](https://auto.ae/en/sale/search/?category_id=1)
 
 ### CMW Platform (Russian)
 
-* [**Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=2498)
-* [**Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=2345)
 * [**API Guide**](https://kb.comindware.ru/article.php?id=1940)
-* [**C# Plugin Guide**](https://kb.comindware.ru/article.php?id=2400)
-* [**Configure Damic Form Elements**](https://kb.comindware.ru/article.php?id=2531#formset17)
+* [**How to Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=4706)
+* [**C# Integration Adapter Developer Guide**](https://kb.comindware.ru/article.php?id=4672)
+* [**How to Configure Damic Form Elements Reference**](https://kb.comindware.ru/article.php?id=4785)
+  * [Form Element Use Animation](https://kb.comindware.ru/article.php?id=4785#form_dynamic_elements_table)
+* [**How to Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=4997)
+* [**C# Plugin Developer Guide**](https://kb.comindware.ru/article.php?id=4864)
 
 ### Other (Russian)
 
