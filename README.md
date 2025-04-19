@@ -27,7 +27,7 @@
 
 ### CMW Platform (Russian)
 
-* [**API Guide**](https://kb.comindware.ru/article.php?id=1940)
+* [**API Guide**](https://kb.comindware.ru/article/metody-web-api-4861.html)
 * [**How to Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=4706)
 * [**C# Integration Adapter Developer Guide**](https://kb.comindware.ru/article.php?id=4672)
 * [**How to Configure Damic Form Elements Reference**](https://kb.comindware.ru/article.php?id=4785)
@@ -37,7 +37,6 @@
 
 ### Other (Russian)
 
-* [**LogMeIn Apps (Pro, Central, Rescue) and Website**](https://www.logmein.com/ru)
 * [**Delta.App Website, App UI, and App Store Description**](https://play.google.com/store/apps/details?id=io.getdelta.android\&hl=ru\&gl=RU\&pli=1)
 * [**RemotEMDR Website**](https://www.remotemdr.com/ru/)
 * [**Republique Game Episodes 2–5 and App Store Description**](https://store.steampowered.com/app/317100/Republique/?l=russian)
