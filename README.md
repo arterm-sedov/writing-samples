@@ -39,8 +39,7 @@
 * [**API Guide**](https://kb.comindware.ru/article/metody-web-api-4861.html)
 * [**How to Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=4706)
 * [**C# Integration Adapter Developer Guide**](https://kb.comindware.ru/article.php?id=4672)
-* [**How to Configure Damic Form Elements Reference**](https://kb.comindware.ru/article.php?id=4785)
-  * [Form Element Use Animation](https://kb.comindware.ru/article.php?id=4785#form_dynamic_elements_table)
+* [**How to Configure Damic Form Elements Reference (With Animation)**](https://kb.comindware.ru/article.php?id=4785#form_dynamic_elements_table)
 * [**How to Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=4997)
 * [**C# Plugin Developer Guide**](https://kb.comindware.ru/article.php?id=4864)
 
