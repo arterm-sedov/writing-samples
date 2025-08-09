@@ -15,8 +15,8 @@
 * [**Cursor Rule for Documentation Generation**](https://github.com/arterm-sedov/cbap-mkdocs-ru/blob/platform_v5/.cursor/rules/cmwhelp.mdc)
 * [**Cursor Rule for Coding Assitance**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/.cursor/rules/agents-course.mdc)
 * [**Cursor Rule for Code Analysis and App Generation**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/.cursor/rules/agents-course-rule.mdc)
-* [**CMW Knowledge Base Ingestion Content and Prompts EN 115k tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/master/kb.cmwlab.com.platform_v4_for_llm_ingestion.md)
-* [**Comindware Knowledge Base Ingestion Content and Prompts EN/RU 1.6M tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/kb.comindware.ru.platform_v5_for_llm_ingestion.md)
+* [**CMW Knowledge Base AI Ingestion Content and Prompts EN 115k tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/master/kb.cmwlab.com.platform_v4_for_llm_ingestion.md)
+* [**Comindware Knowledge Base AI Ingestion Content and Prompts EN/RU 1.6M tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/kb.comindware.ru.platform_v5_for_llm_ingestion.md)
 
 ### CMW Platform (English)
 
@@ -39,6 +39,7 @@
 
 ### CMW Platform (Russian)
 
+* [**Complete Guide PDF**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/Comindware%20Platform%205.0.%20Общее%20руководство.pdf)
 * [**API Guide**](https://kb.comindware.ru/article/metody-web-api-4861.html)
 * [**How to Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=4706)
 * [**C# Integration Adapter Developer Guide**](https://kb.comindware.ru/article.php?id=4672)
