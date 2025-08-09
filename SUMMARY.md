@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Prompt & Writing Samples](README.md)
+* [Prompting & Writing Samples](README.md)
