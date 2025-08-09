@@ -1,4 +1,4 @@
-# Prompt & Writing Samples
+# Prompting & Writing Samples
 
 ### Arte(r)m Sedov
 
