@@ -8,6 +8,7 @@
 
 ### AI Prompting
 
+* [**System Prompt for Perplexity Space with the CMW Knowledge Base**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/prompts/perplexity_space.md)
 * [**System Prompt for GAIA Benchmark Agent (Final JSON)**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/system_prompt.json)
 * [**System Prompt for GAIA Benchmark Agent (Early Markdown)**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/system_prompt.md)
 * [**Cursor Rule for Git Commits**](https://github.com/arterm-sedov/cbap-mkdocs-ru/blob/platform_v5/.cursor/rules/cmwhelp_commit.mdc)
