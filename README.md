@@ -8,7 +8,7 @@
 
 ### AI Prompting
 
-* [**System Prompt for Perplexity Space with the CMW Knowledge Base**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/prompts/perplexity_space.md)
+* [**System Prompt for RAG Agent on the CMW Knowledge Base**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/prompts/perplexity_space.md)
   * [**Perplexity Space with the CMW Knowledge Base**](https://www.perplexity.ai/spaces/kb-comindware-ru-Y3jMizO5TVKX3maQDegP2w)
   * [**DeepWiki Space with the CMW Knowledge Base**](https://deepwiki.com/arterm-sedov/cbap-mkdocs-ru)
 * [**System Prompt for GAIA Benchmark Agent (Final JSON)**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/system_prompt.json)
