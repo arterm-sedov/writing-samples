@@ -21,20 +21,6 @@
 
 ### CMW Platform (English)
 
-* [**Low-Code Development Courses**](https://kb.cmwlab.com/category.php?id=398)
-* [**RESTful Web API Guide**](https://kb.cmwlab.com/article.php?id=1941)
-* [**Low-Code Platform Help Excerpt**](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/)
-* [**CMW Platform Architecture, Landscape, and Software & Hardware Configuration**](https://kb.cmwlab.com/article.php?id=2152)
-* [**RESTful Web API Methods**](https://kb.cmwlab.com/article.php?id=1941)
-* [**Generate Notification Body Using a Template with Placeholders**](https://kb.cmwlab.com/article.php?id=2082)
-* [**Configure an Export Template with C# Data Processing**](https://kb.cmwlab.com/article.php?id=1943)
-* [**Generate a QR Code Using C# and a Third-Party Service on Button Click**](https://kb.cmwlab.com/article.php?id=1947)
-@@ -37,16 +38,6 @@
-* [**Git Basics. Working with Branches**](https://app.gitbook.com/o/cVrMM91FmzBwbnq4IAi4/s/v2jfDATWvYKeAwrbv6xu/)
-* [**Auto.ae Website**](https://auto.ae/en/sale/search/?category_id=1)
-
-### CMW Platform (English)
-
 * [**Low-Code Development Course**](https://kb.cmwlab.com/category.php?id=398)
 * [**RESTful Web API Guide**](https://kb.cmwlab.com/article.php?id=1941)
 * [**Low-Code Platform Help Excerpt**](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/)
