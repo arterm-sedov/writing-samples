@@ -48,7 +48,7 @@
 * [**Route4Me API Summary**](https://arterm-sedov.gitbook.io/route4me-api-summary/)
 * [**Vexel.com How-to Video Voiceover and FAQ**](https://www.behance.net/gallery/150137233/Cryptocurrency-how-to-video-voiceover-and-FAQ-text)
 * [**Git Basics. Working with Branches**](https://app.gitbook.com/o/cVrMM91FmzBwbnq4IAi4/s/v2jfDATWvYKeAwrbv6xu/)
-* [**Auto.ae Website**](https://auto.ae/en/sale/search/?category_id=1)
+* [**Auto.ae Website**](https://auto.ae/sale/car/all/?page=1)
 
 ### Other (Russian)
 
