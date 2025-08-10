@@ -18,6 +18,21 @@
 * [**CMW Knowledge Base AI Ingestion Content and Prompts EN 115k tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/master/kb.cmwlab.com.platform_v4_for_llm_ingestion.md)
 * [**Comindware Knowledge Base AI Ingestion Content and Prompts EN/RU 1.6M tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/kb.comindware.ru.platform_v5_for_llm_ingestion.md)
 
+
+### CMW Platform (English)
+
+* [**Low-Code Development Courses**](https://kb.cmwlab.com/category.php?id=398)
+* [**RESTful Web API Guide**](https://kb.cmwlab.com/article.php?id=1941)
+* [**Low-Code Platform Help Excerpt**](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/)
+* [**CMW Platform Architecture, Landscape, and Software & Hardware Configuration**](https://kb.cmwlab.com/article.php?id=2152)
+* [**RESTful Web API Methods**](https://kb.cmwlab.com/article.php?id=1941)
+* [**Generate Notification Body Using a Template with Placeholders**](https://kb.cmwlab.com/article.php?id=2082)
+* [**Configure an Export Template with C# Data Processing**](https://kb.cmwlab.com/article.php?id=1943)
+* [**Generate a QR Code Using C# and a Third-Party Service on Button Click**](https://kb.cmwlab.com/article.php?id=1947)
+@@ -37,16 +38,6 @@
+* [**Git Basics. Working with Branches**](https://app.gitbook.com/o/cVrMM91FmzBwbnq4IAi4/s/v2jfDATWvYKeAwrbv6xu/)
+* [**Auto.ae Website**](https://auto.ae/en/sale/search/?category_id=1)
+
 ### CMW Platform (English)
 
 * [**Low-Code Development Course**](https://kb.cmwlab.com/category.php?id=398)
@@ -29,6 +44,16 @@
 * [**Generate a QR Code Using C# and a Third-Party Service on Button Click**](https://kb.cmwlab.com/article.php?id=1947)
 * [**Import Data into Excel via API**](https://kb.cmwlab.com/article.php?id=1955)
 * [**Blog article SEO editing**](https://www.behance.net/gallery/149391945/Comindwarecom-blog-article-SEO-editing)
+
+### CMW Platform (Russian)
+
+* [**Complete Guide PDF**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/Comindware%20Platform%205.0.%20Общее%20руководство.pdf)
+* [**API Guide**](https://kb.comindware.ru/article/metody-web-api-4861.html)
+* [**How to Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=4706)
+* [**C# Integration Adapter Developer Guide**](https://kb.comindware.ru/article.php?id=4672)
+* [**How to Configure Damic Form Elements Reference (With Animation)**](https://kb.comindware.ru/article.php?id=4785#form_dynamic_elements_table)
+* [**How to Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=4997)
+* [**C# Plugin Developer Guide**](https://kb.comindware.ru/article.php?id=4864)
 
 ### Other (English)
 
