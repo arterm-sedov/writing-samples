@@ -33,6 +33,7 @@
 
 ### CMW Platform (Russian)
 
+* [**Low-Code Development Courses**](https://kb.comindware.ru/article.php?id=5123)
 * [**Complete Guide PDF**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/Comindware%20Platform%205.0.%20Общее%20руководство.pdf)
 * [**API Guide**](https://kb.comindware.ru/article/metody-web-api-4861.html)
 * [**How to Send Sequests to External SQL DB**](https://kb.comindware.ru/article.php?id=4706)
