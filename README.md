@@ -18,7 +18,6 @@
 * [**CMW Knowledge Base AI Ingestion Content and Prompts EN 115k tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/master/kb.cmwlab.com.platform_v4_for_llm_ingestion.md)
 * [**Comindware Knowledge Base AI Ingestion Content and Prompts EN/RU 1.6M tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/kb.comindware.ru.platform_v5_for_llm_ingestion.md)
 
-
 ### CMW Platform (English)
 
 * [**Low-Code Development Course**](https://kb.cmwlab.com/category.php?id=398)
@@ -31,6 +30,14 @@
 * [**Import Data into Excel via API**](https://kb.cmwlab.com/article.php?id=1955)
 * [**Blog article SEO editing**](https://www.behance.net/gallery/149391945/Comindwarecom-blog-article-SEO-editing)
 
+### Other (English)
+
+* [**Git Basics. Working with Branches**](https://arterm-sedov.gitbook.io/git-tutorial-sample/)
+* [**Get Started with Docker. Create a Docker Image**](https://github.com/arterm-sedov/docker-tutorial)
+* [**Route4Me API Summary**](https://arterm-sedov.gitbook.io/route4me-api-summary/)
+* [**Vexel.com How-to Video Voiceover and FAQ**](https://www.behance.net/gallery/150137233/Cryptocurrency-how-to-video-voiceover-and-FAQ-text)
+* [**Auto.ae Website**](https://auto.ae/sale/car/all/?page=1)
+
 ### CMW Platform (Russian)
 
 * [**Low-Code Development Courses**](https://kb.comindware.ru/article.php?id=5123)
@@ -41,14 +48,6 @@
 * [**How to Configure Damic Form Elements Reference (With Animation)**](https://kb.comindware.ru/article.php?id=4785#form_dynamic_elements_table)
 * [**How to Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=4997)
 * [**C# Plugin Developer Guide**](https://kb.comindware.ru/article.php?id=4864)
-
-### Other (English)
-
-* [**Get Started with Docker. Create a Docker Image**](https://github.com/arterm-sedov/docker-tutorial)
-* [**Route4Me API Summary**](https://arterm-sedov.gitbook.io/route4me-api-summary/)
-* [**Git Basics. Working with Branches**](https://arterm-sedov.gitbook.io/git-tutorial-sample/)
-* [**Vexel.com How-to Video Voiceover and FAQ**](https://www.behance.net/gallery/150137233/Cryptocurrency-how-to-video-voiceover-and-FAQ-text)
-* [**Auto.ae Website**](https://auto.ae/sale/car/all/?page=1)
 
 ### Other (Russian)
 
