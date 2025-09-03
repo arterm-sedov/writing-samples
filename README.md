@@ -6,8 +6,9 @@
 
 [https://github.com/arterm-sedov/](https://github.com/arterm-sedov/)
 
-### AI Prompting
+### AI Engineering & Prompting
 
+* [**CMW Copilot MVP**](https://github.com/arterm-sedov/cmw-platform-agent)
 * [**System Prompt for RAG Agent on the CMW Knowledge Base**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/prompts/perplexity_space.md)
   * [**Perplexity Space with the CMW Knowledge Base**](https://www.perplexity.ai/spaces/kb-comindware-ru-Y3jMizO5TVKX3maQDegP2w)
   * [**DeepWiki Space with the CMW Knowledge Base**](https://deepwiki.com/arterm-sedov/cbap-mkdocs-ru)
