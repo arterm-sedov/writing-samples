@@ -13,7 +13,7 @@
 * [**CMW Platform Copilot**](https://github.com/arterm-sedov/cmw-platform-agent)
   * [**Agent System Prompt**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/agent_ng/system_prompt.json)
   * [**Chat Sample `grok-code-fast-1`**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_232546.md)
-  * [**Chat Sample `gpt-5-minit`**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_233918.md)
+  * [**Chat Sample `gpt-5-mini`**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_233918.md)
 * [**System Prompt for RAG Agent on the CMW Knowledge Base**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/prompts/perplexity_space.md)
   * [**Perplexity Space with the CMW Knowledge Base**](https://www.perplexity.ai/spaces/kb-comindware-ru-Y3jMizO5TVKX3maQDegP2w)
   * [**DeepWiki Space with the CMW Knowledge Base**](https://deepwiki.com/arterm-sedov/cbap-mkdocs-ru)
