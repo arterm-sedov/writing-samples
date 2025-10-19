@@ -6,7 +6,7 @@
 
 [https://github.com/arterm-sedov/](https://github.com/arterm-sedov/)
 
-### [Russian samples — see below](#cmw-platform-russian)
+### For [Russian samples, see below](#cmw-platform-russian)
 
 ### AI Engineering & Prompting
 
