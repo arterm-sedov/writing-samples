@@ -15,7 +15,7 @@
   * [**Chat Sample `grok-code-fast-1`**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_232546.md)
   * [**Chat Sample `gpt-5-mini`**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_233918.md)
 * [**System Prompt for RAG Agent on the CMW Knowledge Base**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/prompts/perplexity_space.md)
-  * [**Perplexity Space with the CMW Knowledge Base**](https://www.perplexity.ai/spaces/kb-comindware-ru-Y3jMizO5TVKX3maQDegP2w)
+  * [**Perplexity Space with the CMW Knowledge Base**](https://www.perplexity.ai/spaces/kb-comindware-ru-KZ9yGLK5TbyQFTFbOZrNTA#0)
   * [**DeepWiki Space with the CMW Knowledge Base**](https://deepwiki.com/arterm-sedov/cbap-mkdocs-ru)
 * [**System Prompt for GAIA Benchmark Agent (Final JSON)**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/system_prompt.json)
 * [**System Prompt for GAIA Benchmark Agent (Early Markdown)**](https://github.com/arterm-sedov/agent-course-final-assignment/blob/main/system_prompt.md)
