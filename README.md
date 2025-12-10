@@ -1,14 +1,22 @@
 # Prompting & Writing Samples
 
-### Arte(r)m Sedov
+## Arte(r)m Sedov
 
 [https://www.linkedin.com/in/arterm/](https://www.linkedin.com/in/arterm/)
 
 [https://github.com/arterm-sedov/](https://github.com/arterm-sedov/)
 
-**For [Russian samples, see below](#cmw-platform-russian)**
+## Sample Rubrics
 
-### AI Engineering & Prompting
+* [AI Engineering & Prompting](#ai-engineering--prompting)
+* English
+  * [CMW Platform docs](#cmw-platform-english)
+  * [Mics docs](#misc-samples-english)
+* Russian
+  * [CMW Platform docs](#cmw-platform-russian)
+  * [Mics docs](#misc-samples-russian)
+
+## AI Engineering & Prompting
 
 * [**System prompt for the CMW Knowledgebase RAG agent**](https://github.com/arterm-sedov/cmw-rag/blob/main/rag_engine/llm/prompts.py)
 * [**CMW Platform Copilot**](https://github.com/arterm-sedov/cmw-platform-agent)
@@ -27,7 +35,7 @@
 * [**CMW Knowledge Base AI Ingestion Content and Prompts EN 115k tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/master/kb.cmwlab.com.platform_v4_for_llm_ingestion.md)
 * [**Comindware Knowledge Base AI Ingestion Content and Prompts EN/RU 1.6M tokens**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/kb.comindware.ru.platform_v5_for_llm_ingestion.md)
 
-### CMW Platform (English)
+## CMW Platform (English)
 
 * [**Low-Code Development Course**](https://kb.cmwlab.com/category.php?id=398)
 * [**RESTful Web API Guide**](https://kb.cmwlab.com/article.php?id=1941)
@@ -39,7 +47,7 @@
 * [**Import Data into Excel via API**](https://kb.cmwlab.com/article.php?id=1955)
 * [**Blog article SEO editing**](https://www.behance.net/gallery/149391945/Comindwarecom-blog-article-SEO-editing)
 
-### Other (English)
+### Misc samples (English)
 
 * [**Git Basics. Working with Branches**](https://arterm-sedov.gitbook.io/git-tutorial-sample/)
 * [**Get Started with Docker. Create a Docker Image**](https://github.com/arterm-sedov/docker-tutorial)
@@ -47,7 +55,7 @@
 * [**Vexel.com How-to Video Voiceover and FAQ**](https://www.behance.net/gallery/150137233/Cryptocurrency-how-to-video-voiceover-and-FAQ-text)
 * [**Auto.ae Website**](https://auto.ae/sale/car/all/?page=1)
 
-### CMW Platform (Russian)
+## CMW Platform (Russian)
 
 * [**Low-Code Development Courses**](https://kb.comindware.ru/article.php?id=5123)
 * [**Complete Guide PDF**](https://raw.githubusercontent.com/arterm-sedov/cbap-mkdocs-ru/refs/heads/platform_v5/Comindware%20Platform%205.0.%20Общее%20руководство.pdf)
@@ -58,7 +66,7 @@
 * [**How to Write DB Requests Using Formulas**](https://kb.comindware.ru/article.php?id=4997)
 * [**C# Plugin Developer Guide**](https://kb.comindware.ru/article.php?id=4864)
 
-### Other (Russian)
+## Misc samples (Russian)
 
 * [**Delta.App Website, App UI, and App Store Description**](https://play.google.com/store/apps/details?id=io.getdelta.android\&hl=ru\&gl=RU\&pli=1)
 * [**RemotEMDR Website**](https://www.remotemdr.com/ru/)
