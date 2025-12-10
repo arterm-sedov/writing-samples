@@ -37,7 +37,7 @@
 
 ## CMW Platform (English)
 
-* [**Low-Code Development Course**](https://kb.cmwlab.com/category.php?id=398)
+* [**Low-Code Development Course**](https://kb.cmwlab.com/article.php?id=1110)
 * [**RESTful Web API Guide**](https://kb.cmwlab.com/article.php?id=1941)
 * [**Low-Code Platform Help Excerpt**](https://arterm-sedov.gitbook.io/low-code-platform-help-excerpt/)
 * [**CMW Platform Architecture, Landscape, and Software & Hardware Configuration**](https://kb.cmwlab.com/article.php?id=2152)
