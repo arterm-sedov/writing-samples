@@ -8,7 +8,7 @@
 
 ## Sample Rubrics
 
-* [AI Engineering & Prompting](#ai-engineering--prompting)
+* [AI Engineering & Prompting](#ai-engineering-and-prompting)
 * English
   * [CMW Platform docs](#cmw-platform-english)
   * [Mics docs](#misc-samples-english)
