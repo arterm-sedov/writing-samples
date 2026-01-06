@@ -19,8 +19,10 @@
 ## AI Engineering & Prompting
 
 * [**CMW Knowledgebase RAG agent (repo)**](https://github.com/arterm-sedov/cmw-rag)
+  * [**Demo**](https://ennoia.slickjump.org/)
   * [**System Prompt**](https://github.com/arterm-sedov/cmw-rag/blob/main/rag_engine/llm/prompts.py)
 * [**CMW Platform Copilot (repo)**](https://github.com/arterm-sedov/cmw-platform-agent)
+  * [**Demo**](https://arterm-sedov-cmw-copilot.hf.space/)
   * [**System Prompt**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/agent_ng/system_prompt.json)
   * [**Chat Sample `deepseek-chat-v3.1` (EN/ES)**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_193030.md)
   * [**Chat Sample `grok-code-fast-1` (RU)**](https://github.com/arterm-sedov/cmw-platform-agent/blob/main/.chat_samples/CMW_Copilot_20250920_232546.md)
