@@ -11,10 +11,10 @@
 * [AI Engineering & Prompting](#ai-engineering-and-prompting)
 * English
   * [CMW Platform docs](#cmw-platform-english)
-  * [Mics docs](#misc-samples-english)
+  * [Misc samples](#misc-samples-english)
 * Russian
   * [CMW Platform docs](#cmw-platform-russian)
-  * [Mics docs](#misc-samples-russian)
+  * [Misс samples](#misc-samples-russian)
 
 ## AI Engineering & Prompting
 
